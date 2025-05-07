@@ -1,0 +1,4 @@
+{
+    "command": "./start.sh",
+    "working_directory": "/home/kavia/workspace/code-generation/taskflow-77088-77095/core_component_for_taskflow"
+}
